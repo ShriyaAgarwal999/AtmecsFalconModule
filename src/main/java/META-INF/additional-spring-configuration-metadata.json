@@ -1,0 +1,12 @@
+{"properties": [
+  {
+    "name": "report.goMessage",
+    "type": "java.lang.String",
+    "description": "A description for 'report.goMessage'"
+  },
+  {
+    "name": "report.noMessage",
+    "type": "java.lang.String",
+    "description": "A description for 'report.noMessage'"
+  }
+]}
